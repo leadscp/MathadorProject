@@ -1,0 +1,10 @@
+C:\Users\Léa\Documents\Ingésup\B3\dotNET\Mathador\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Léa\Documents\Ingésup\B3\dotNET\Mathador\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Léa\Documents\Ingésup\B3\dotNET\Mathador\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Léa\Documents\Ingésup\B3\dotNET\Mathador\ConsoleApplication\bin\Debug\Mathador.exe
+C:\Users\Léa\Documents\Ingésup\B3\dotNET\Mathador\ConsoleApplication\bin\Debug\Mathador.pdb
+C:\Users\Léa\Documents\Ingésup\B3\dotNET\Mathador\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Léa\Documents\Ingésup\B3\dotNET\Mathador\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Léa\Documents\Ingésup\B3\dotNET\Mathador\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Léa\Documents\Ingésup\B3\dotNET\Mathador\ConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Léa\Documents\Ingésup\B3\dotNET\Mathador\ConsoleApplication\bin\Debug\Newtonsoft.Json.xml
